@@ -1,4 +1,5 @@
 # 🐾 Online Pet Adoption Platform
+![image alt](https://github.com/Tushar0063/Pet-Adoptation-System/blob/5576627b7d82cf6a51b82152e094e4d4f153f666/Nov%2030%2C%202025%2C%2009_23_10%20PM.png)
 
 A Java-based backend application demonstrating OOP, JDBC, Multithreading, DAO/Service Architecture, and a simple Swing GUI to simulate an online pet adoption service.
 
@@ -35,6 +36,7 @@ src/
 ├── service/      → Business logic (PetService, UserService)
 ├── gui/          → Swing UI (ShelterDashboard, etc.)
 └── MainApplication.java
+![image alt](https://github.com/Tushar0063/Pet-Adoptation-System/blob/5576627b7d82cf6a51b82152e094e4d4f153f666/Screenshot%202025-11-30%20212412.png)
 
 # Architecture Layers
 
@@ -94,6 +96,7 @@ INSERT INTO User (id, email, password_hash, name, role)
 VALUES 
 (1, 'alice@admin.com', 'hash', 'Alice Admin', 'Admin'),
 (101, 'paws@shelter.com', 'hash', 'Happy Paws', 'Shelter');
+![image alt](https://github.com/Tushar0063/Pet-Adoptation-System/blob/d2bbb1731b8f4083c51b55000084e49fe12065f9/Screenshot%202025-11-30%20212710.png)
 
 
 # 👉 Update DBUtil.java with your MySQL credentials.
@@ -110,6 +113,7 @@ com.adoption.platform.MainApplication
 Press F6 to run
 
 The Shelter Dashboard GUI will open.
+![image alt](https://github.com/Tushar0063/Pet-Adoptation-System/blob/5576627b7d82cf6a51b82152e094e4d4f153f666/Screenshot%202025-11-30%20212431.png)
 
 # 🧪 Testing Features
 1️⃣ JDBC INSERT Test (GUI)
